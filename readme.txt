@@ -1,6 +1,6 @@
 === WPOSS阿里云对象存储 ===
 Contributors: laobuluo
-Donate link: https://www.lezaiyun.com/donate/
+Donate link: https://www.laojiang.me/donate/
 Tags:阿里云oss,oss,对象存储,wordpress oss
 Requires at least: 5.5
 Tested up to: 6.9.1
@@ -25,11 +25,11 @@ WordPress阿里云对象存储插件（简称:WPOSS），基于阿里云OSS对�
 8. 支持本地和对象存储分离和同步
 9. 2020年重构代码改变传统逻辑模型
 
-阿里云对象存储插件安装方法：[https://www.lezaiyun.com/?p=1095](https://www.lezaiyun.com/?p=1095)
+阿里云对象存储插件安装方法：[https://www.laojiang.me/5946.html](https://www.laojiang.me/5946.html)
 
 ## 网站支持
 
-* [老蒋玩运营](https://www.laojiang.me/ "老蒋玩运营")
+* [乐在云](https://www.lezaiyun.com/ "乐在云")
 
 * [主机评价网](https://www.zhujipingjia.com/ "主机评价网")
 
